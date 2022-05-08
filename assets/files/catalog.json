@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "OPPO f19",
+      "desc": "New Version plus",
+      "aboutMobile" :"Oppo F19 mobile was launched on 6th April 2021. The phone comes with a 6.43-inch touchscreen display with a resolution of 1080x2400 pixels and an aspect ratio of 20:9. Oppo F19 is powered by an octa-core Qualcomm Snapdragon 662 processor. It comes with 6GB of RAM.",
+      "price": 35000,
+      "color": "#33505a",
+      "image": "https://images.priceoye.pk/oppo-f19-pro-pakistan-priceoye-v3d9q-500x500.webp"
+    },
+    {
+      "id": 2,
+      "name": "SAMSUMG s10",
+      "desc": "New Version plus",
+      "aboutMobile": "he Samsung Galaxy S10 is the \"middle child\" in the Galaxy S10 trio that the company has just launched. While the Galaxy S10+ has been recognised as the best that the Galaxy S series has to offer, the smaller Galaxy S10",
+      "price": 89000,
+      "color": "#00ac51",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2019/01/Samsung-Galaxy-S10-SD855-600x600.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Huawei p30",
+      "desc": "New Version plus",
+      "aboutMobile": "Huawei P30's retail price in Pakistan is Rs. 89,999. Official dealers and warranty providers regulate the retail price of Huawei mobile products in official warranty.Huawei P30 · Released 2019, March 26 · 165g, 7.6mm thickness.",
+      "price": 58000,
+      "color": "#e0bfae",
+      "image": "https://m.media-amazon.com/images/I/51JkZDQeXUL._AC_SX522_.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Apple 12max",
+      "desc": "New Version plus",
+      "aboutMobile": "Apple iPhone 12 Pro Max · Processor: Apple A14 Bionic (5 nm) · RAM: 6GB · Storage: 128GB, 256GB, 512GB.The phone which is powered by the new Apple A14 Bionic processor, comes with a 6.7 inche Super Retina XDR OLED capacitive touchscreen and 2778 x 1284.",
+      "price": 200000,
+      "color": "#544ee4",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2020/05/iphone-12-pro-max-family-hero-all-600x600.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Reno 6",
+      "desc": "New Version plus",
+      "aboutMobile": "OPPO Reno6 with Bokeh Flare Portrait softens background lights to create truly magical situations. It also features AI Highlight Video, 50W Flash Charge.The smartphone with an AMOLED Capacitive Touchscreen",
+      "price": 60000,
+      "color": "#e3e4e9",
+      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/OppoReno6Pro5G.jpg"
+    },
+    {
+      "id": 6,
+      "name": "HOT 11",
+      "desc": "New Version plus",
+      "aboutMobile": "Infinix Note 11 Pro ; CPU, Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) ; GPU, Mali-G57 MC2 ; Memory, Card slot ; Internal, 128GB 8GB RAM.The main lens of the setup will be 64 megapixels wide",
+      "price": 50000,
+      "color": "#f73984",
+      "image": "https://images.priceoye.pk/infinix-hot-11-pakistan-priceoye-72lyy-500x500.webp"
+    },
+    {
+      "id": 7,
+      "name": "Read Me-8",
+      "desc": "New Version plus",
+      "aboutMobile": " Redmi 8 ; CPU, Octa-core (4x1.95 GHz Cortex-A53 & 4x1.45 GHz Cortex A53) ; GPU, Adreno 505 ; Memory, Card slot ; Internal, 32GB 3GB RAM, 64GB 4GB RAM.Redmi 8's featuring 6.22 inches display screen that will full HD plus resolution of 1520 x 720 pixels.",
+      "price": 80000,
+      "color": "#1c1c1c",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2019/08/Xiaomi-Redmi-8-476x476.png"
+    },
+    {
+      "id": 8,
+      "name": "OPPO F17",
+      "desc": "New Version plus",
+      "aboutMobile": "Oppo F17 ; Size, 6.44 inches, 100.1 cm2 (~86.1% screen-to-body ratio) ; Resolution, 1080 x 2400 pixels, 20:9 ratio (~409 ppi density) ; Platform, OS ; Chipset 64GB 4GB RAM, 128GB 4GB RAM.Oppo F17 mobile was launched on 2nd September 2020.",
+      "price": 360000,
+      "color": "#7c95eb",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2019/08/Xiaomi-Redmi-8-476x476.png"
+    },
+    {
+      "id": 9,
+      "name": "Huawei p20",
+      "desc": "New Version plus",
+      "aboutMobile": "Huawei P20 mobile was launched in March 2018. The phone comes with a 5.80-inch touchscreen display with a resolution of 1080x2244 pixels at a pixel density.Power is supplied by the 3400 mAh battery that will keep the device alive after hours of straight usage.",
+      "price": 40000,
+      "color": "#e0bfae",
+      "image": "https://m.media-amazon.com/images/I/51JkZDQeXUL._AC_SX522_.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Apple 11max",
+      "desc": "New Version plus",
+      "aboutMobile": "Apple iPhone 11 Pro is powered by the Apple A13 Bionic processor. The smartphone comes with a 5.8 inches Super Retina XDR OLED capacitive touchscreen.iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.",
+      "price": 140000,
+      "color": "#544ee4",
+      "image": "https://www.gizmochina.com/wp-content/uploads/2020/05/iphone-12-pro-max-family-hero-all-600x600.jpg"
+    }
+  ]
+}
